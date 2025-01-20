@@ -36,10 +36,6 @@ A tech enthusiast with over a decade of experience in leading software engineeri
 
 ### 🔗 Let's Connect!
 
-<div align="center">
-  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-</div>
-<br>
 <p align="center">Feel free to reach out to me through any of the platforms below! ✨</p>
 
 <p align="center">
@@ -60,6 +56,6 @@ A tech enthusiast with over a decade of experience in leading software engineeri
 
 ### 💡 Fun Fact!
 I love solving complex problems and creating efficient, elegant solutions.
-Strength: Continious learning
+Currently learning: System design, Nextjs. 
 ---
 
