@@ -9,7 +9,8 @@ A tech enthusiast with over a decade of experience in leading software engineeri
 ### 👨‍💻 About Me
 - 📍 **Location:** Vancouver, BC, Canada.
 - 🎓 **Education:** 
-  - Master's in Business Administration ( Pursuing ) from **University Canada West** 
+  - Master's in Business Administration ( Pursuing ) from **University Canada West**
+  - Bachelor's in Computer Science Engineering
 - 🛠️ **Specialization:** Frontend development, Backend systems, RESTful APIs, Microservices, and cloud-based applications.
 
 ---
@@ -18,8 +19,8 @@ A tech enthusiast with over a decade of experience in leading software engineeri
 
 | 💻 Backend      | 🌐 Frontend           | 📊 Databases        | ☁️ Cloud          |
 |------------------|-----------------------|---------------------|-------------------|
-| Java (Spring Boot, Hibernate, Microservices) | React.js, Angular, Tailwind CSS | MySQL, MongoDB | GCP |
-| Node.js, Flask   | HTML, CSS, TypeScript |                     |                   |
+| Java (Spring Boot, Hibernate, Microservices) | React.js, Angular, Tailwind, CSS/SASS/SCSS/LESS, jQuery | MySQL, MongoDB | GCP |
+| Node.js, PHP  | HTML, CSS, TypeScript |                     |                   |
 
 
 <p align="center">
