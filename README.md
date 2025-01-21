@@ -19,7 +19,7 @@ A tech enthusiast with over a decade of experience in leading software engineeri
 
 | 💻 Backend      | 🌐 Frontend           | 📊 Databases        | ☁️ Cloud          |
 |------------------|-----------------------|---------------------|-------------------|
-| Java (Spring Boot, Hibernate, Microservices) | React.js, Angular, Tailwind, CSS/SASS/SCSS/LESS, jQuery | MySQL, MongoDB | GCP |
+| Java (Spring Boot, Microservices) | React.js, Angular, Tailwind, CSS/SASS/SCSS/LESS, jQuery | MySQL, MongoDB | GCP |
 | Node.js, PHP  | HTML, CSS, TypeScript |                     |                   |
 
 
