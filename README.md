@@ -1,5 +1,5 @@
-# 👋 Hi I'm Afsar Ahmed  
-# I'm a Software Engineer 🚀
+# 👋 Hi I'm Afsar Ahmed  - Software Engineer 🚀
+# Crafting state of art softwares 
 
 🌟 **Welcome to my GitHub!**  
 A tech enthusiast with over a decade of experience in leading software engineering projects.
