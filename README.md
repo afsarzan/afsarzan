@@ -18,8 +18,8 @@ A tech enthusiast with over a decade of experience in leading software engineeri
 
 | 💻 Backend      | 🌐 Frontend           | 📊 Databases        | ☁️ Cloud          |
 |------------------|-----------------------|---------------------|-------------------|
-| Java (Spring Boot, Microservices) | React.js, Angular, Vue js, Tailwind, Foundation, Bootstrap, ShadCN, CSS/SASS/SCSS/LESS, jQuery | MySQL, MongoDB | GCP, AWS |
-| Node.js, PHP  | HTML, CSS, TypeScript, Javascript |                     |                   |
+| Java (Spring Boot, Microservices) | React.js, Angular(1 - 20 V), Vue js, Tailwind, Foundation, Bootstrap, ShadCN, CSS/SASS/SCSS/LESS, jQuery | MySQL, MongoDB | GCP, AWS |
+| Node.js, PHP, Python  | HTML, CSS, TypeScript, Javascript |                     |                   |
 
 
 <p align="center">
