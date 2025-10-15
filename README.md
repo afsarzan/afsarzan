@@ -54,7 +54,7 @@ A tech enthusiast with over a decade of experience in leading software engineeri
 
 
 ### 💡Fact!
-I love solving complex problems and creating efficient, elegant solutions.
+complex systems facinates finding problems and creating efficient, elegant solutions.
 Currently learning: System design, Nextjs, Python, AI, ML. 
 ---
 
