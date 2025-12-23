@@ -8,7 +8,7 @@ A tech enthusiast with over a decade of experience in leading software engineeri
 ### 👨‍💻 About Me
 - 📍 **Location:** Vancouver, BC, Canada.
 - 🎓 **Education:** 
-  - Master's in Business Administration ( Pursuing ) from **University Canada West**
+  - Master's in Business Administration from **University Canada West**
   - Bachelor's in Computer Science Engineering
 - 🛠️ **Specialization:** Frontend, Backend.
 
