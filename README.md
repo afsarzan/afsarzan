@@ -1,7 +1,7 @@
 # Software Engineer - Crafting state of art softwares 
 
 🌟 **Welcome to my GitHub!**  
-A tech enthusiast with over a decade of experience in leading software engineering projects.
+A tech enthusiast with over a decade of experience in developing software engineering projects.
 
 ---
 
