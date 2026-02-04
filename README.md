@@ -1,22 +1,22 @@
 # Software Engineer - Crafting state of art softwares 
 
-🌟 **Welcome to my GitHub!**  
+ **Welcome to my GitHub!**  
 A tech enthusiast with over a decade of experience in developing software engineering projects.
 
 ---
 
-### 👨‍💻 About Me
-- 📍 **Location:** Vancouver, BC, Canada.
-- 🎓 **Education:** 
+### About Me
+-  **Location:** Vancouver, BC, Canada.
+-  **Education:** 
   - Master's in Business Administration from **University Canada West**
   - Bachelor's in Computer Science Engineering
-- 🛠️ **Specialization:** Frontend, Backend.
+-  **Specialization:** Frontend, Backend.
 
 ---
 
 ### ⚡ Tech Stack I Work On:
 
-| 💻 Backend      | 🌐 Frontend           | 📊 Databases        | ☁️ Cloud          |
+| Backend      |  Frontend           |  Databases        | Cloud          |
 |------------------|-----------------------|---------------------|-------------------|
 | Java (Spring Boot, Microservices) | React.js, Angular(1 - 20 V), Vue js, Tailwind, Foundation, Bootstrap, ShadCN, CSS/SASS/SCSS/LESS, jQuery | MySQL, MongoDB | GCP, AWS |
 | Node.js, PHP, Python  | HTML, CSS, TypeScript, Javascript |                     |                   |
@@ -33,9 +33,9 @@ A tech enthusiast with over a decade of experience in developing software engine
 
 ---
 
-### 🔗 Let's Connect!
+### Let's Connect!
 
-<p align="center">Feel free to reach out to me through any of the platforms below! ✨</p>
+<p align="center">Feel free to reach out to me through any of the platforms below! </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/afsarahmed/" target="_blank">
