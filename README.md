@@ -22,7 +22,7 @@ A tech enthusiast with over a decade of experience in developing software engine
 | Node.js, PHP, Python  | HTML, CSS, TypeScript, Javascript |                     |                   |
 
 <br>
-# Professional Certifications & Badges
+## Professional Certifications & Badges
 
 This repository serves as a live portfolio of my professional certifications, digital badges, and verified skills across various platforms including Cloud, DevOps, and Digital Marketing.
 
