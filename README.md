@@ -49,12 +49,3 @@ A tech enthusiast with over a decade of experience in developing software engine
   </a> 
 </p>
 <br>
-
-
-
-
-### 💡Fact!
-complex systems facinates finding problems and creating efficient, elegant solutions.
-Currently learning: System design, Nextjs, Python, AI, ML. 
----
-
