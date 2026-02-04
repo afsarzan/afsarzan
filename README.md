@@ -21,12 +21,6 @@ A tech enthusiast with over a decade of experience in developing software engine
 | Java (Spring Boot, Microservices) | React.js, Angular(1 - 20 V), Vue js, Tailwind, Foundation, Bootstrap, ShadCN, CSS/SASS/SCSS/LESS, jQuery | MySQL, MongoDB | GCP, AWS |
 | Node.js, PHP, Python  | HTML, CSS, TypeScript, Javascript |                     |                   |
 
-
-<p align="center">
-![image](https://github.com/user-attachments/assets/c6d43e8f-efce-498b-a3f7-e6ccd8e1e8ec)
-</p>
-
-
 <br>
 # Professional Certifications & Badges
 
