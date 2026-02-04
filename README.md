@@ -46,3 +46,15 @@ A tech enthusiast with over a decade of experience in developing software engine
   </a> 
 </p>
 <br>
+# Professional Certifications & Badges
+
+This repository serves as a live portfolio of my professional certifications, digital badges, and verified skills across various platforms including Cloud, DevOps, and Digital Marketing.
+
+## Verified Credentials
+
+| Platform | Verification Link | Description |
+| :--- | :--- | :--- |
+| **Credly** | [![Credly](https://img.shields.io/badge/Credly-Verified-orange?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/afsar-ahmed-dev/badges) | Cloud & Technical Certifications |
+| **Skillsoft** | [![Skillsoft](https://img.shields.io/badge/Skillsoft-Digital_Badges-blue?style=flat)](https://skillsoft.digitalbadges.skillsoft.com/profile/afsarahmed800557/wallet) | IT & Professional Development |
+| **Digital Marketing Institute** | [![DMI](https://img.shields.io/badge/DMI-Certified-red?style=flat)](https://certs.digitalmarketinginstitute.com/profile/afsarahmed488256/wallet) | Marketing & Strategy Credentials |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Certifications-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsarahmed/details/certifications/) | Full Certification History |
