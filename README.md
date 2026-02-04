@@ -44,8 +44,5 @@ A tech enthusiast with over a decade of experience in developing software engine
   <a href="mailto:afsar_optimistic@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/Email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
-  <a href="https://github.com/afsarzan/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a> 
 </p>
 <br>
