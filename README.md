@@ -14,7 +14,7 @@ A tech enthusiast with over a decade of experience in developing software engine
 
 ---
 
-### ⚡ Tech Stack I Work On:
+###  Tech Stack I Work On:
 
 | Backend      |  Frontend           |  Databases        | Cloud          |
 |------------------|-----------------------|---------------------|-------------------|
