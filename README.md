@@ -52,3 +52,4 @@ This repository serves as a live portfolio of my professional certifications, di
   </a> 
 </p>
 
+[![My GitFut card](https://gitfut.com/afsarzan.png)](https://gitfut.com/afsarzan)
