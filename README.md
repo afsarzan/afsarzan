@@ -43,13 +43,4 @@ This repository serves as a live portfolio of my professional certifications, di
 
 <p align="center">Feel free to reach out to me through any of the platforms below! </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/afsarahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-  <a href="mailto:afsar_optimistic@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a> 
-</p>
-
 [![My GitFut card](https://gitfut.com/afsarzan.png)](https://gitfut.com/afsarzan)
